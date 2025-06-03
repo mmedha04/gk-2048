@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: gk-2048
+    env: python
+    plan: free
+    buildCommand: ""
+    startCommand: gunicorn app:app
