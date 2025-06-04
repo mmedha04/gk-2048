@@ -23,12 +23,12 @@ A custom version of the iconic 2048 game built with **Flask** and **JavaScript**
 | ![gameplay](static/screenshots/gameplay.png) | ![win](static/screenshots/win.png) | ![lose](static/screenshots/lose.png) |
 
 ## 📂 Project Structure
-app.py #flask backend
-game2048.py #core game logic class
-templates/
-  index.html #main html file
-static/
-  images #face tile images
+- app.py #flask backend
+- game2048.py #core game logic class
+- templates/
+  - index.html #main html file
+- static/
+  - images #face tile images
 
 ## What I Learned
 - Writing interactive frontends with vanilla JS
