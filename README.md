@@ -31,24 +31,23 @@ A custom version of the iconic 2048 game built with **Flask** and **JavaScript**
   - images #face tile images
  
 ## Running Locally
+1. Clone the repository:
+   git clone https://github.com/mmedha04/gk-2048.git
+   cd gk-2048
 
-1. Clone the repository
-git clone https://github.com/mmedha04/gk-2048.git
-cd gk-2048
-
-2. (Optional) Create a virtual environment
+2. (Optional) Create a virtual environment:
 python -m venv venv
 source venv/bin/activate  # Mac/Linux
 venv\Scripts\activate     # Windows
 
-3. Install dependencies
-pip install flask
+3. Install dependencies:
+   pip install flask
 
-4. Run the app
-python3 app.py
+4. Run the app:
+   python3 app.py
 
-5. Open in browser
-http://localhost:5000
+5. Open in browser:
+   http://localhost:5000
 
 ## What I Learned
 - Writing interactive frontends with vanilla JS
