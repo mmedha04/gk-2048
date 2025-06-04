@@ -1,4 +1,4 @@
-# GK 2048 – A Personalized Twist on the Classic Game
+# GK 2048 - 2048 with a twist!
 
 A custom version of the iconic 2048 game built with **Flask** and **JavaScript**, featuring unique face-tile images instead of numbers and a polished, responsive interface.
 
